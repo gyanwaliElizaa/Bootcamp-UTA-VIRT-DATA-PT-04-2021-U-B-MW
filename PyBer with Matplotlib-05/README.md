@@ -1,8 +1,11 @@
 # PyBer with matplotlib
 # module 5 Assignment
 
+Analyze and visualize ride-sharing data using Python, Pandas, and the Matplotlib library.
+
 
 Analysis
+
 Over 60% of all rides and total fare value come from urban riders.
 Rural riders tend to take significantly higher cost, albeit fewer, trips than urban or suburban riders.
 While comprising about 35% of all rides and fares, suburban and rural cities afford only 22% of Pyber's total driver population. 
