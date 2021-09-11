@@ -3,16 +3,17 @@
 
 
 
-#Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 We analyzed climate data using Python, SQLAlchemy, Pandas, and Matplotlib.
 
 
 
-#Results:
+## Results:
 
 
 June Temps
+
 count	1700.000000
 mean	74.944118
 std	3.257417
@@ -25,6 +26,7 @@ max	85.000000
 
 
 December Temps
+
 count	1517.000000
 mean	71.041529
 std	3.745920
@@ -36,7 +38,7 @@ max	83.000000
 
 
 
-#Summary:
+## Summary:
 
 
 Perform the summary statistics for June and December
