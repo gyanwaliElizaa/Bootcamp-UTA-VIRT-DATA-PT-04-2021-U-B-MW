@@ -9,7 +9,7 @@ The purpose of this analysis is to create a supervised machine learning model th
 
 ## Results:
 
-Naive Random Oversampling
+## Naive Random Oversampling
 
 Accuracy Score: 67.4%
 
@@ -21,7 +21,8 @@ Recall High Risk: 72%
 
 Recall Low Risk: 63%
 
-SMOTE Oversampling
+
+## SMOTE Oversampling
 
 Accuracy Score: 66.2%
 
@@ -34,7 +35,7 @@ Recall High Risk: 66%
 Recall Low Risk: 66%
 
 
-Cluster Centroid Undersampling
+## Cluster Centroid Undersampling
 
 Accuracy Score: 51.3%
 
@@ -47,7 +48,7 @@ Recall High Risk: 61%
 Recall Low Risk: 42%
 
 
-SMOTEENN Sampling
+## SMOTEENN Sampling
 
 Accuracy Score: 68.1%
 
@@ -61,7 +62,7 @@ Recall Low Risk: 60%
 
 
 
-Balanced Random Forest Classifying
+## Balanced Random Forest Classifying
 
 Accuracy Score: 64.8%
 
@@ -74,7 +75,7 @@ Recall High Risk: 30%
 Recall Low Risk: 100%
 
 
-Easy Ensemble Classifying
+## Easy Ensemble Classifying
 
 Accuracy Score: 92.3%
 
