@@ -39,7 +39,7 @@ The winner of the election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
-<img src="Analysis/result.png"></img>
+<img src="result.png" alt="Girl in a jacket" width="500" height="600">
 
 
 
