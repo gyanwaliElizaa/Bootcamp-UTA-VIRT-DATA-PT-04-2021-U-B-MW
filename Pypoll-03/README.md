@@ -49,4 +49,4 @@ We can use the pypoll_challenge.py with some modification for other elections al
 ## Resources: 
 
 Data Source: election_results.csv
-Software: idle Python 3.8.10
+Software: Python 3.8.10, Visual studio code
