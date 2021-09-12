@@ -10,10 +10,15 @@ A Colorado Board of Elctions alloted task to complete the election audit of a re
 Tasks:
 
 a. Calculate the total number of votes cast.
+
 b. Get the complete list of candidates who received votes.
+
 c. Get the voter turnout for each country.  
+
 d. Calculate the total number of votes received for each candidate. 
+
 e. Calculate the percentage of votes each candidate won. 
+
 f. Determine the winner of the election based on popular vote.   
 
 
