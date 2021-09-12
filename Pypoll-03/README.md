@@ -7,7 +7,7 @@ Python coding for the election analysis.
 
 A Colorado Board of Elctions alloted task to complete the election audit of a recent local congressional election. 
 
-Tasks:
+- Tasks:
 
 a. Calculate the total number of votes cast.
 
