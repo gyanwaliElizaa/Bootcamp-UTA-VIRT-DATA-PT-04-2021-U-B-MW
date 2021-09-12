@@ -38,8 +38,7 @@ The winner of the election was:
 
 - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-
-<img src="result.png"></img>
+<img width="539" alt="Screen Shot 2020-08-02 at 6 36 11 PM" src="https://user-images.githubusercontent.com/67808057/89138069-29b19e80-d4ef-11ea-8e97-4cee1cff5aa1.png">
 
 
 
