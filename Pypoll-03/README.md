@@ -39,7 +39,7 @@ The winner of the election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
-<img src="result.png" width="500" height="600">
+<img src="result.png"></img>
 
 
 
