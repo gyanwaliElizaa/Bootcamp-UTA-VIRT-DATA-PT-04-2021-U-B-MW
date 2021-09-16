@@ -14,9 +14,9 @@ The purpose of this project is to analysis the wall street data using VBA.
 
 Explore green energy stock performance by analyzing financial(Wall Street) data using VBA.
 
-<img width="500" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/02-VBA/VBA_Challenge_2017.png">
+<img width="500" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/VBA_wall_street-02/VBA_Challenge_2017.png">
 
-<img width="500" src="https://github.com/silpapoudell/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/02-VBA/Resources/VBA_Challenge_2017.png">
+<img width="500" src="https://github.com/gyanwaliElizaa/Bootcamp-UTA-VIRT-DATA-PT-04-2021-U-B-MW/blob/main/VBA_wall_street-02/VBA_Challenge_2018.png">
 
 
 
